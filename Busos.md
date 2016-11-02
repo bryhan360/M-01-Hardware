@@ -1,7 +1,7 @@
 # Busos externos en un ordenador
 
  Tipos de Busos | Velicidades Maximas
-  --|--
+  --------------|------------------
   PCI express 1.0 | 2.5 GT/s
   PCI express 2.0 | 5 GT/s
   PCI express 3.0 | 8 GT/s
