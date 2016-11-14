@@ -1,4 +1,4 @@
-MD fx-6350 y Intel Core i7 6700k
+# AMD fx-6350 y Intel Core i7 6700k
 
 
   AMD FX-6350   | intel CoreI7 6700K   
