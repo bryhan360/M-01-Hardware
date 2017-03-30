@@ -3,7 +3,7 @@
 ## NIVELES RAID
 
  |  Nivel | Nº minim |     Nº Max    | Capacitat |   Read   |  Write   |
- |  RAID  |  DISCS   | Disc Faillats |	          |          |          |
+ |  RAID  |  DISCS   | Disc Faillats |	         |          |          |
  |  ----  |  ------  |  -----------  |  -------  |  ------  |  ------  |
  |   R-0  |    2     |       0       |   100%    | Excelent | Excelent |
  |   R-1  |  2(Max)  |       1       |    50%    | V. Good  |   Good   |
